@@ -1,0 +1,48 @@
+{
+  "title": "Pelis Docente - Nginx",
+  "uid": "pelis-docente-nginx",
+  "timezone": "browser",
+  "schemaVersion": 39,
+  "version": 1,
+  "refresh": "10s",
+  "time": { "from": "now-1h", "to": "now" },
+  "panels": [
+    {
+      "id": 1,
+      "title": "Conexiones activas",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 0 },
+      "targets": [
+        { "expr": "nginx_connections_active", "legendFormat": "activas" }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Requests totales (rate 5m)",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 0 },
+      "targets": [
+        { "expr": "rate(nginx_http_requests_total[5m])", "legendFormat": "req/s" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Conexiones aceptadas vs manejadas",
+      "type": "timeseries",
+      "gridPos": { "h": 8, "w": 12, "x": 0, "y": 8 },
+      "targets": [
+        { "expr": "rate(nginx_connections_accepted[5m])", "legendFormat": "accepted" },
+        { "expr": "rate(nginx_connections_handled[5m])", "legendFormat": "handled" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Nginx up",
+      "type": "stat",
+      "gridPos": { "h": 8, "w": 12, "x": 12, "y": 8 },
+      "targets": [
+        { "expr": "nginx_up", "legendFormat": "up" }
+      ]
+    }
+  ]
+}
