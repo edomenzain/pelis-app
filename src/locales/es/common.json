@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "new": "Lo Nuevo",
+    "topRated": "Lo Mejor Calificado",
+    "categories": "Exclusivas por Categoría",
+    "login": "Iniciar Sesión",
+    "profile": "Perfil",
+    "admin": "Admin",
+    "logout": "Cerrar Sesión"
+  },
+  "search": {
+    "placeholder": "Buscar películas..."
+  },
+  "hero": {
+    "cta": "Ver detalles",
+    "rating": "Calificación"
+  },
+  "home": {
+    "latestReviews": "Últimas Reseñas de la Comunidad",
+    "browseGrid": "Explora Todas las Películas",
+    "ctaTitle": "Únete a la comunidad de PelisMania",
+    "ctaSubtitle": "Crea tu cuenta gratis y comparte tus reseñas con miles de cinéfilos.",
+    "ctaButton": "Crear cuenta gratis"
+  },
+  "movie": {
+    "director": "Director",
+    "cast": "Reparto",
+    "genres": "Géneros",
+    "synopsis": "Sinopsis",
+    "reviews": "Reseñas",
+    "writeReview": "Escribe tu reseña",
+    "yourRating": "Tu calificación",
+    "reviewPlaceholder": "¿Qué te pareció esta película?",
+    "submit": "Publicar Reseña",
+    "loginToReview": "Inicia sesión para dejar tu reseña",
+    "noReviews": "Aún no hay reseñas. ¡Sé el primero!",
+    "pendingNotice": "Tu reseña fue enviada y será visible tras ser aprobada."
+  },
+  "profile": {
+    "title": "Mi Perfil",
+    "bio": "Biografía",
+    "editProfile": "Editar Perfil",
+    "favoriteGenres": "Géneros Favoritos",
+    "history": "Mi Historial de Reseñas",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "save": "Guardar Cambios",
+    "cancel": "Cancelar",
+    "myMovies": "Mis Películas Propuestas",
+    "proposeMovie": "Proponer Película",
+    "noMovies": "Aún no has propuesto ninguna película."
+  },
+  "admin": {
+    "title": "Panel de Administrador",
+    "movies": "Gestión de Películas",
+    "moderation": "Moderación de Reseñas",
+    "pendingMovies": "Películas Propuestas por Colaboradores",
+    "addMovie": "Agregar Película",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "approve": "Aprobar",
+    "reject": "Rechazar",
+    "noPending": "No hay reseñas pendientes de moderación.",
+    "noPendingMovies": "No hay películas pendientes de aprobación."
+  },
+  "auth": {
+    "loginTitle": "Bienvenido de nuevo",
+    "registerTitle": "Crea tu cuenta",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "name": "Nombre completo",
+    "loginButton": "Ingresar",
+    "registerButton": "Registrarme",
+    "noAccount": "¿No tienes cuenta?",
+    "hasAccount": "¿Ya tienes cuenta?",
+    "createOne": "Regístrate",
+    "signIn": "Inicia sesión"
+  },
+  "footer": {
+    "tagline": "Tu comunidad de cine, en un solo lugar.",
+    "rights": "Todos los derechos reservados."
+  }
+}

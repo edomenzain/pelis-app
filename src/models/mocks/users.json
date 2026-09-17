@@ -1,0 +1,22 @@
+[
+  {
+    "id": "u1",
+    "name": "Admin PelisMania",
+    "email": "admin@pelismania.com",
+    "password": "admin123",
+    "role": "admin",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "bio": "Curador oficial de PelisMania.",
+    "favoriteGenres": ["Ciencia Ficción", "Suspenso"]
+  },
+  {
+    "id": "u2",
+    "name": "Valentina Cruz",
+    "email": "valentina@correo.com",
+    "password": "cine2024",
+    "role": "user",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "bio": "Amante del cine de autor y las palomitas con extra mantequilla.",
+    "favoriteGenres": ["Drama", "Romance"]
+  }
+]

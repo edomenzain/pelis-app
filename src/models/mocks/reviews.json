@@ -1,0 +1,46 @@
+[
+  {
+    "id": "r1",
+    "movieId": "m1",
+    "userId": "u2",
+    "userName": "Valentina Cruz",
+    "userAvatar": "https://i.pravatar.cc/150?img=47",
+    "rating": 9,
+    "text": "Una obra maestra visual. El tercer acto me dejó sin palabras.",
+    "status": "approved",
+    "createdAt": "2024-05-02T10:00:00.000Z"
+  },
+  {
+    "id": "r2",
+    "movieId": "m1",
+    "userId": "u1",
+    "userName": "Admin PelisMania",
+    "userAvatar": "https://i.pravatar.cc/150?img=12",
+    "rating": 10,
+    "text": "El mejor guion de ciencia ficción en años. Imprescindible en pantalla grande.",
+    "status": "approved",
+    "createdAt": "2024-05-10T10:00:00.000Z"
+  },
+  {
+    "id": "r3",
+    "movieId": "m2",
+    "userId": "u2",
+    "userName": "Valentina Cruz",
+    "userAvatar": "https://i.pravatar.cc/150?img=47",
+    "rating": 8,
+    "text": "Tensión constante de principio a fin, aunque el final se siente apresurado.",
+    "status": "approved",
+    "createdAt": "2024-04-18T10:00:00.000Z"
+  },
+  {
+    "id": "r4",
+    "movieId": "m3",
+    "userId": "u2",
+    "userName": "Valentina Cruz",
+    "userAvatar": "https://i.pravatar.cc/150?img=47",
+    "rating": 9,
+    "text": "La fotografía neón es una delicia y la química entre los protagonistas es real.",
+    "status": "pending",
+    "createdAt": "2024-06-01T10:00:00.000Z"
+  }
+]

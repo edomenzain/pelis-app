@@ -1,0 +1,83 @@
+{
+  "nav": {
+    "new": "New Releases",
+    "topRated": "Top Rated",
+    "categories": "Exclusives by Category",
+    "login": "Log In",
+    "profile": "Profile",
+    "admin": "Admin",
+    "logout": "Log Out"
+  },
+  "search": {
+    "placeholder": "Search movies..."
+  },
+  "hero": {
+    "cta": "View details",
+    "rating": "Rating"
+  },
+  "home": {
+    "latestReviews": "Latest Reviews from the Community",
+    "browseGrid": "Browse All Movies",
+    "ctaTitle": "Join the PelisMania community",
+    "ctaSubtitle": "Create your free account and share your reviews with thousands of movie lovers.",
+    "ctaButton": "Create free account"
+  },
+  "movie": {
+    "director": "Director",
+    "cast": "Cast",
+    "genres": "Genres",
+    "synopsis": "Synopsis",
+    "reviews": "Reviews",
+    "writeReview": "Write your review",
+    "yourRating": "Your rating",
+    "reviewPlaceholder": "What did you think about this movie?",
+    "submit": "Post Review",
+    "loginToReview": "Log in to leave your review",
+    "noReviews": "No reviews yet. Be the first!",
+    "pendingNotice": "Your review was submitted and will be visible once approved."
+  },
+  "profile": {
+    "title": "My Profile",
+    "bio": "Bio",
+    "editProfile": "Edit Profile",
+    "favoriteGenres": "Favorite Genres",
+    "history": "My Review History",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "myMovies": "My Proposed Movies",
+    "proposeMovie": "Propose Movie",
+    "noMovies": "You haven't proposed any movies yet."
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "movies": "Movie Management",
+    "moderation": "Review Moderation",
+    "pendingMovies": "Movies Proposed by Collaborators",
+    "addMovie": "Add Movie",
+    "edit": "Edit",
+    "delete": "Delete",
+    "approve": "Approve",
+    "reject": "Reject",
+    "noPending": "No reviews pending moderation.",
+    "noPendingMovies": "No movies pending approval."
+  },
+  "auth": {
+    "loginTitle": "Welcome back",
+    "registerTitle": "Create your account",
+    "email": "Email address",
+    "password": "Password",
+    "name": "Full name",
+    "loginButton": "Sign In",
+    "registerButton": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "createOne": "Sign up",
+    "signIn": "Sign in"
+  },
+  "footer": {
+    "tagline": "Your movie community, all in one place.",
+    "rights": "All rights reserved."
+  }
+}

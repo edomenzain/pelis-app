@@ -1,0 +1,177 @@
+[
+  {
+    "id": "m1",
+    "title": "Inception",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/xgPGDEKkBrXhPaNmwIlf8e2RCMk.jpg",
+    "synopsis": "Un ladrón que roba secretos corporativos a través del uso de tecnología para compartir sueños recibe la tarea inversa de plantar una idea en la mente de un CEO.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "genres": [
+      "Ciencia Ficción",
+      "Acción"
+    ],
+    "year": 2010,
+    "duration": 148,
+    "rating": 8.8,
+    "status": "approved",
+    "submittedBy": null
+  },
+  {
+    "id": "m2",
+    "title": "El Caballero de la Noche",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/vLFCrzI3V4kbze877tP1H7TqppL.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/9FE5eD92WfVCiivM9Pq9GVSrlWk.jpg",
+    "synopsis": "Batman se enfrenta a uno de los mayores retos psicológicos y físicos de su capacidad para luchar contra la injusticia: el Joker.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "genres": [
+      "Acción",
+      "Suspenso"
+    ],
+    "year": 2008,
+    "duration": 152,
+    "rating": 9.0,
+    "status": "approved",
+    "submittedBy": null
+  },
+  {
+    "id": "m3",
+    "title": "Interstellar",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/cQuuBjG78j4b2r1dFpAjnjbUplv.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+    "synopsis": "Un grupo de exploradores viaja a través de un agujero de gusano en el espacio en un intento por asegurar la supervivencia de la humanidad.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "genres": [
+      "Ciencia Ficción",
+      "Drama"
+    ],
+    "year": 2014,
+    "duration": 169,
+    "rating": 8.7,
+    "status": "approved",
+    "submittedBy": null
+  },
+  {
+    "id": "m4",
+    "title": "Parásitos",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/j4AOjNlhvudYDijiT0lxeHAsPkk.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "synopsis": "La codicia y la discriminación de clases amenazan la simbiótica relación entre la adinerada familia Park y el pobre clan Kim.",
+    "director": "Bong Joon-ho",
+    "cast": [
+      "Song Kang-ho",
+      "Lee Sun-kyun",
+      "Cho Yeo-jeong"
+    ],
+    "genres": [
+      "Drama",
+      "Suspenso"
+    ],
+    "year": 2019,
+    "duration": 133,
+    "rating": 8.5,
+    "status": "approved",
+    "submittedBy": null
+  },
+  {
+    "id": "m5",
+    "title": "Tiempos Violentos",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/sjb1KYPp57GhG96Sc6WJDddP3f7.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "synopsis": "Las vidas de dos sicarios, un boxeador, la esposa de un gánster y dos bandidos de restaurante se entrelazan en cuatro historias de violencia y redención.",
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "genres": [
+      "Suspenso",
+      "Misterio"
+    ],
+    "year": 1994,
+    "duration": 154,
+    "rating": 8.5,
+    "status": "approved",
+    "submittedBy": null
+  },
+  {
+    "id": "m6",
+    "title": "Matrix",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/8rT9kG2EYkZpJmYCuTJNnPDEube.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/lrtSb1skJayPydZk0OSMAKjBOVe.jpg",
+    "synopsis": "Un hacker informático se entera por rebeldes misteriosos sobre la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "genres": [
+      "Ciencia Ficción",
+      "Acción"
+    ],
+    "year": 1999,
+    "duration": 136,
+    "rating": 8.2,
+    "status": "approved",
+    "submittedBy": null
+  },
+  {
+    "id": "m7",
+    "title": "Whiplash",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+    "synopsis": "Un joven baterista de jazz ingresa a un conservatorio de élite donde su sueño de convertirse en grande es empujado por un despiadado instructor.",
+    "director": "Damien Chazelle",
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "genres": [
+      "Drama"
+    ],
+    "year": 2014,
+    "duration": 107,
+    "rating": 8.4,
+    "status": "approved",
+    "submittedBy": null
+  },
+  {
+    "id": "m8",
+    "title": "El Viaje de Chihiro",
+    "posterPath": "https://media.themoviedb.org/t/p/w500/2RcxjDykOssx4SfqshewyI9vfSl.jpg",
+    "backdropPath": "https://media.themoviedb.org/t/p/original/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+    "synopsis": "Durante la mudanza a un nuevo hogar, una niña entra en un mundo gobernado por dioses, brujas y espíritus donde los humanos se convierten en animales.",
+    "director": "Hayao Miyazaki",
+    "cast": [
+      "Rumi Hiiragi",
+      "Miyu Irino",
+      "Mari Natsuki"
+    ],
+    "genres": [
+      "Fantasía",
+      "Comedia"
+    ],
+    "year": 2001,
+    "duration": 125,
+    "rating": 8.6,
+    "status": "approved",
+    "submittedBy": null
+  }
+]
